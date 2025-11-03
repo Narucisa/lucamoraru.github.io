@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-07-21 07:05 PM
+5.0.270.1002578 (1002351)
+6dff462 (11 apr. 2024 15:47:55)
+-->
+<scene title="Preview 1280 (Lynch beloy version)" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="7199" fps="30" modifiedTime="1753113937981" amver="1002351" ffver="106" am="com.alightcreative.motion/5.0.270.1002578" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://com.android.providers.media.documents/document/video%3A1000374000" type="video/mp4" duration="9148700" orientation="0" infoUpdated="1753113809709" width="848" height="480" />
+  <bookmark t="16" />
+  <shape id="386445" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="0" endTime="833" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="3212" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386446" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="800" endTime="1633" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="3212" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="326.500000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386447" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="1600" endTime="2433" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="3212" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="180.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,-927.000000" />
+      <property name="offsetAngle" type="float" value="270.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.000000" />
+      <property name="a1d" type="float" value="90.000000" />
+      <property name="m1" type="float" value="17.000000" />
+      <property name="m2" type="float">
+        <kf t="-0.020408" v="0.000000" />
+        <kf t="0.339736" v="3.600000" e="cubicBezier 0.0 1.0 0.0 0.0" />
+        <kf t="0.660264" v="0.000000" />
+        <kf t="1.020408" v="3.600000" />
+      </property>
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386448" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="2400" endTime="3233" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="3212" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="326.500000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386449" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="3200" endTime="3699" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="2878" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386450" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="3700" endTime="4199" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="2878" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="-1.000000,1.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="326.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386451" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="4200" endTime="4699" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="2878" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="275.500000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386452" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="4700" endTime="5199" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="2878" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="-1.000000,1.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="300.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386453" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="5200" endTime="5699" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="2878" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="270.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386454" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="5700" endTime="6199" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="2878" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="-1.000000,1.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="150.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386455" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="6200" endTime="6699" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="2878" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386456" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="6700" endTime="7199" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000374000" inTime="2379" outTime="2878" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="-1.000000,1.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="344.500000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+</scene>

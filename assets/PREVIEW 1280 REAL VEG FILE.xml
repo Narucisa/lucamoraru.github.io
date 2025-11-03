@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-08-03 08:04 PM
+5.0.270.1002578 (1002351)
+6dff462 (11 apr. 2024 15:47:55)
+-->
+<scene title="PREVIEW 1280 REAL VEG FILE" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="7999" fps="30" modifiedTime="1754240648205" amver="1002351" ffver="106" am="com.alightcreative.motion/5.0.270.1002578" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://com.android.providers.media.documents/document/video%3A1000034332" type="video/mp4" duration="355892171" orientation="0" infoUpdated="1754240590763" width="640" height="360" />
+  <media uri="content://com.android.providers.media.documents/document/video%3A1000035455" type="video/mp4" duration="612983528" orientation="0" infoUpdated="1754240590763" width="640" height="360" />
+  <media uri="content://media/external/video/media/1000035455" type="video/mp4" duration="612983528" orientation="0" infoUpdated="1754240582589" width="640" height="360" />
+  <bookmark t="7416" />
+  <bookmark t="2150" />
+  <shape id="386418" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="0" endTime="865" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="865" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386419" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="866" endTime="1731" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="865" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386420" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="1733" endTime="2598" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="865" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,-757.000000" />
+      <property name="offsetAngle" type="float" value="270.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386421" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="2600" endTime="3465" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="865" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386422" label="Rectangle 1" startTime="833" endTime="1732" fillType="color" blending="hue" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ff4563e4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="307.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="386423" label="Rectangle 1" startTime="1700" endTime="2599" fillType="color" blending="hue" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ff4563e4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="180.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="386424" label="Rectangle 1" startTime="2566" endTime="3465" fillType="color" blending="hue" mediaFillMode="fill" presetId="904701a7-ff77-4020-8ebc-15073de14aae" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ff4563e4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="307.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="386425" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="3466" endTime="4032" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="566" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386426" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="4033" endTime="4599" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="566" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="-1.000000,1.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386427" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="4600" endTime="5166" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="566" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386428" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="5166" endTime="5732" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="566" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="-1.000000,1.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386429" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="5733" endTime="6299" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="566" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386430" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="6300" endTime="6866" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="566" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="-1.000000,1.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386431" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="6866" endTime="7432" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="566" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386432" label="Klasky Csupo (16_9 Widescreen).mp4" startTime="7433" endTime="7999" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000034332" outTime="566" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="-1.000000,1.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386433" label="Rectangle 1" startTime="3433" endTime="4032" fillType="color" blending="hue" mediaFillMode="fill" presetId="904701a7-ff77-4020-8ebc-15073de14aae" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ff4563e4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="386434" label="Rectangle 1" startTime="4000" endTime="4599" fillType="color" blending="hue" mediaFillMode="fill" presetId="904701a7-ff77-4020-8ebc-15073de14aae" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ff4563e4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="306.500000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="386435" label="Rectangle 1" startTime="4566" endTime="5165" fillType="color" blending="hue" mediaFillMode="fill" presetId="904701a7-ff77-4020-8ebc-15073de14aae" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ff4563e4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="284.500000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="386436" label="Rectangle 1" startTime="5133" endTime="5732" fillType="color" blending="hue" mediaFillMode="fill" presetId="904701a7-ff77-4020-8ebc-15073de14aae" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ff4563e4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="215.500000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="386437" label="Rectangle 1" startTime="5700" endTime="6299" fillType="color" blending="hue" mediaFillMode="fill" presetId="904701a7-ff77-4020-8ebc-15073de14aae" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ff4563e4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="129.500000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="386438" label="Rectangle 1" startTime="6266" endTime="6865" fillType="color" blending="hue" mediaFillMode="fill" presetId="904701a7-ff77-4020-8ebc-15073de14aae" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ff4563e4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="0.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="386439" label="Rectangle 1" startTime="6866" endTime="7465" fillType="color" blending="hue" mediaFillMode="fill" presetId="904701a7-ff77-4020-8ebc-15073de14aae" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ff4563e4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="43.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="386440" label="Rectangle 1" startTime="7433" endTime="7999" fillType="color" blending="hue" mediaFillMode="fill" presetId="904701a7-ff77-4020-8ebc-15073de14aae" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+      <scale value="9.600000,5.400000" />
+    </transform>
+    <fillColor value="#ff4563e4" />
+    <effect id="com.alightcreative.effects.lift" locallyApplied="true">
+      <property name="fill" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="97.000000" />
+    </effect>
+    <property name="size" type="vec2" value="100.000000,100.000000" />
+  </shape>
+  <shape id="386443" label="10 MINUTES Of tv simulator displacement map.mp4" startTime="1700" endTime="2599" fillType="media" fillVideo="content://com.android.providers.media.documents/document/video%3A1000035455" outTime="899" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.displacemap3" locallyApplied="true">
+      <property name="offs" type="vec2" value="30.000000,0.000000" />
+      <property name="typex" type="int" value="0" />
+      <property name="typey" type="int" value="0" />
+      <property name="edges" type="int" value="3" />
+      <property name="fromctr" type="bool" value="false" />
+      <property name="invert" type="bool" value="false" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="386444" label="10 MINUTES Of tv simulator displacement map.mp4 Copy" startTime="1700" endTime="2599" fillType="media" fillVideo="content://media/external/video/media/1000035455" outTime="899" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.displacemap3" locallyApplied="true">
+      <property name="offs" type="vec2" value="30.000000,0.000000" />
+      <property name="typex" type="int" value="0" />
+      <property name="typey" type="int" value="0" />
+      <property name="edges" type="int" value="3" />
+      <property name="fromctr" type="bool" value="true" />
+      <property name="invert" type="bool" value="false" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+</scene>

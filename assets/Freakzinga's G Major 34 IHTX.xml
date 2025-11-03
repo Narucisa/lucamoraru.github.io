@@ -1,0 +1,2389 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-08-03 01:24 PM
+5.0.270.1002578 (1002351)
+6dff462 (11 apr. 2024 15:47:55)
+-->
+<scene title="Freakzinga's G Major 34 IHTX" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="3665" fps="30" modifiedTime="1754216674762" amver="1002351" ffver="106" am="com.alightcreative.motion/5.0.270.1002578" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/video/media/1000017287" filename="Klasky Csupo (Widescreen).mp4" title="Klasky Csupo (Widescreen).mp4" type="video/mp4" duration="5828200" size="399250" fps="0.30" orientation="0" infoUpdated="1754216115436" width="640" height="360" />
+  <shape id="387525" label="Klasky Csupo (Widescreen).mp4" startTime="0" endTime="365" fillType="media" fillVideo="content://media/external/video/media/1000017287" inTime="1466" outTime="1831" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387526" label="Klasky Csupo (Widescreen).mp4" startTime="366" endTime="731" fillType="media" fillVideo="content://media/external/video/media/1000017287" inTime="1466" outTime="1831" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387527" label="Klasky Csupo (Widescreen).mp4" startTime="733" endTime="1098" fillType="media" fillVideo="content://media/external/video/media/1000017287" inTime="1466" outTime="1831" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387528" label="Klasky Csupo (Widescreen).mp4" startTime="1100" endTime="1465" fillType="media" fillVideo="content://media/external/video/media/1000017287" inTime="1466" outTime="1831" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387529" label="Klasky Csupo (Widescreen).mp4" startTime="1466" endTime="1831" fillType="media" fillVideo="content://media/external/video/media/1000017287" inTime="1466" outTime="1831" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387530" label="Klasky Csupo (Widescreen).mp4" startTime="1833" endTime="2198" fillType="media" fillVideo="content://media/external/video/media/1000017287" inTime="1466" outTime="1831" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387531" label="Klasky Csupo (Widescreen).mp4" startTime="2200" endTime="2565" fillType="media" fillVideo="content://media/external/video/media/1000017287" inTime="1466" outTime="1831" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387532" label="Klasky Csupo (Widescreen).mp4" startTime="2566" endTime="2931" fillType="media" fillVideo="content://media/external/video/media/1000017287" inTime="1466" outTime="1831" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387533" label="Klasky Csupo (Widescreen).mp4" startTime="2933" endTime="3298" fillType="media" fillVideo="content://media/external/video/media/1000017287" inTime="1466" outTime="1831" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387534" label="Klasky Csupo (Widescreen).mp4" startTime="3300" endTime="3665" fillType="media" fillVideo="content://media/external/video/media/1000017287" inTime="1466" outTime="1831" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="245.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.130000" />
+      <property name="a1d" type="float" value="-90.000000" />
+      <property name="m1" type="float" value="11.300000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,661.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+</scene>

@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-08-05 07:49 AM
+5.0.270.1002578 (1002351)
+6dff462 (11 apr. 2024 15:47:55)
+-->
+<scene title="School Life Chorded IHTX" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="3665" fps="30" modifiedTime="1754369368084" amver="1002351" ffver="106" am="com.alightcreative.motion/5.0.270.1002578" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/video/media/1000035706" filename="Fără titlu 2025-08-05 07.46.29.mp4" title="Fără titlu 2025-08-05 07.46.29.mp4" type="video/mp4" duration="512000" size="728476" fps="0.32" orientation="0" infoUpdated="1754369346554" width="1280" height="720" />
+  <shape id="387668" label="Fără titlu 2025-08-05 07.46.29.mp4" startTime="0" endTime="365" fillType="media" fillVideo="content://media/external/video/media/1000035706" outTime="365" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387669" label="Fără titlu 2025-08-05 07.46.29.mp4" startTime="366" endTime="731" fillType="media" fillVideo="content://media/external/video/media/1000035706" outTime="365" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387670" label="Fără titlu 2025-08-05 07.46.29.mp4" startTime="733" endTime="1098" fillType="media" fillVideo="content://media/external/video/media/1000035706" outTime="365" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387671" label="Fără titlu 2025-08-05 07.46.29.mp4" startTime="1100" endTime="1465" fillType="media" fillVideo="content://media/external/video/media/1000035706" outTime="365" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387672" label="Fără titlu 2025-08-05 07.46.29.mp4" startTime="1466" endTime="1831" fillType="media" fillVideo="content://media/external/video/media/1000035706" outTime="365" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387673" label="Fără titlu 2025-08-05 07.46.29.mp4" startTime="1833" endTime="2198" fillType="media" fillVideo="content://media/external/video/media/1000035706" outTime="365" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387674" label="Fără titlu 2025-08-05 07.46.29.mp4" startTime="2200" endTime="2565" fillType="media" fillVideo="content://media/external/video/media/1000035706" outTime="365" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387675" label="Fără titlu 2025-08-05 07.46.29.mp4" startTime="2566" endTime="2931" fillType="media" fillVideo="content://media/external/video/media/1000035706" outTime="365" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387676" label="Fără titlu 2025-08-05 07.46.29.mp4" startTime="2933" endTime="3298" fillType="media" fillVideo="content://media/external/video/media/1000035706" outTime="365" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387677" label="Fără titlu 2025-08-05 07.46.29.mp4" startTime="3300" endTime="3665" fillType="media" fillVideo="content://media/external/video/media/1000035706" outTime="365" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff00ff" />
+      <property name="color2" type="color" value="#ffffff00" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <text id="387678" startTime="0" endTime="3665" fillType="color" mediaFillMode="fill" size="72.000000" font="imported?name=1942.ttf" wrapWidth="1545" align="left">
+    <transform>
+      <location value="637.179382,951.209106,0.000000" />
+      <scale value="0.764426,0.764426" />
+    </transform>
+    <fillColor value="#ffffff00" />
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffff00ff" />
+    </path-stroke>
+    <content>SCHOOL-LIFE</content>
+  </text>
+</scene>

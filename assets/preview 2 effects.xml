@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-08-05 09:14 PM
+5.0.270.1002578 (1002351)
+6dff462 (11 apr. 2024 15:47:55)
+-->
+<scene title="preview 2 effects" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="10932" fps="30" modifiedTime="1754417655717" amver="1002351" ffver="106" am="com.alightcreative.motion/5.0.270.1002578" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/video/media/1000035704" filename="km_20250805_360p_30f_20250805_070719.mp4" title="km_20250805_360p_30f_20250805_070719.mp4" type="video/mp4" duration="1334000" size="178259" fps="0.30" orientation="0" infoUpdated="1754417517067" width="640" height="360" />
+  <shape id="387690" label="km_20250805_360p_30f_20250805_070719.mp4" startTime="0" endTime="1366" fillType="media" fillVideo="content://media/external/video/media/1000035704" outTime="1334" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387691" label="km_20250805_360p_30f_20250805_070719.mp4" startTime="1366" endTime="2732" fillType="media" fillVideo="content://media/external/video/media/1000035704" outTime="1334" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387692" label="km_20250805_360p_30f_20250805_070719.mp4 Copy" startTime="1366" endTime="2732" fillType="media" blending="exclusion" fillVideo="content://media/external/video/media/1000035704" outTime="1334" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387693" label="km_20250805_360p_30f_20250805_070719.mp4" startTime="2733" endTime="4099" fillType="media" fillVideo="content://media/external/video/media/1000035704" outTime="1334" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,628.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="180.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387694" label="km_20250805_360p_30f_20250805_070719.mp4" startTime="4100" endTime="5466" fillType="media" fillVideo="content://media/external/video/media/1000035704" outTime="1334" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,628.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="180.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387695" label="km_20250805_360p_30f_20250805_070719.mp4 Copy 2" startTime="4100" endTime="5466" fillType="media" blending="exclusion" fillVideo="content://media/external/video/media/1000035704" outTime="1334" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,628.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="180.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387696" label="km_20250805_360p_30f_20250805_070719.mp4" startTime="5466" endTime="6832" fillType="media" fillVideo="content://media/external/video/media/1000035704" outTime="1334" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ff3c0000" />
+      <property name="color2" type="color" value="#ffff0000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float">
+        <kf t="0.012445" v="0.000000" />
+        <kf t="0.988287" v="2.000000" />
+      </property>
+      <property name="a1d" type="float" value="90.000000" />
+      <property name="m1" type="float" value="20.000000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387697" label="km_20250805_360p_30f_20250805_070719.mp4" startTime="6833" endTime="8199" fillType="media" fillVideo="content://media/external/video/media/1000035704" outTime="1334" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.threetones" locallyApplied="true">
+      <property name="color1" type="color" value="#ffffffff" />
+      <property name="color2" type="color" value="#ff0000ff" />
+      <property name="color3" type="color" value="#ff00ffff" />
+      <property name="bright" type="float" value="1.000000" />
+      <property name="blendMode" type="int" value="0" />
+      <property name="alphab" type="float" value="1.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387698" label="km_20250805_360p_30f_20250805_070719.mp4" startTime="8200" endTime="9566" fillType="media" fillVideo="content://media/external/video/media/1000035704" outTime="1334" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387699" label="km_20250805_360p_30f_20250805_070719.mp4" startTime="9566" endTime="10932" fillType="media" fillVideo="content://media/external/video/media/1000035704" outTime="1334" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="90.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.000000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="20.000000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+</scene>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-08-07 10:38 AM
+5.0.270.1002578 (1002351)
+6dff462 (11 apr. 2024 15:47:55)
+-->
+<scene title="4 layers" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="4799" fps="30" modifiedTime="1754552313775" amver="1002351" ffver="106" am="com.alightcreative.motion/5.0.270.1002578" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/video/media/1000036170" filename="ihtx_custom-1.mp4" title="ihtx_custom-1.mp4" type="video/mp4" duration="4667000" size="1331625" fps="0.30" orientation="0" infoUpdated="1754552178374" width="640" height="360" />
+  <bookmark t="16" />
+  <shape id="387817" label="ihtx_custom-1.mp4" startTime="0" endTime="4699" fillType="media" fillVideo="content://media/external/video/media/1000036170" outTime="4667" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="491.286499,270.984375,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387818" label="ihtx_custom-1.mp4 Copy" startTime="33" endTime="4732" fillType="media" fillVideo="content://media/external/video/media/1000036170" outTime="4667" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1451.286621,283.428833,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387819" label="ihtx_custom-1.mp4 Copy 2" startTime="66" endTime="4765" fillType="media" fillVideo="content://media/external/video/media/1000036170" outTime="4667" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="478.842285,814.984436,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387820" label="ihtx_custom-1.mp4 Copy 3" startTime="100" endTime="4799" fillType="media" fillVideo="content://media/external/video/media/1000036170" outTime="4667" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="1439.321411,823.873230,0.000000" />
+      <scale value="0.500000,0.500000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+</scene>

@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-08-05 10:21 PM
+5.0.270.1002578 (1002351)
+6dff462 (11 apr. 2024 15:47:55)
+-->
+<scene title="Klasky Pitch Effects" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="59998" fps="30" modifiedTime="1754421708184" amver="1002351" ffver="106" am="com.alightcreative.motion/5.0.270.1002578" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/images/media/1000035946" filename="kmc_20250805_171413.png" title="kmc_20250805_171413.png" type="image/png" size="76853" orientation="0" infoUpdated="1754421287931" width="1920" height="1080" />
+  <shape id="387751" label="kmc_20250805_171413.png" startTime="0" endTime="3332" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387753" label="kmc_20250805_171413.png" startTime="3333" endTime="6665" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.threshold" locallyApplied="true">
+      <property name="threshold" type="float" value="0.640000" />
+      <property name="feather" type="float" value="1.000000" />
+      <property name="invert" type="bool" value="true" />
+      <property name="blendMode" type="int" value="1" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387757" label="kmc_20250805_171413.png" startTime="6666" endTime="9998" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,9999.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="180.000000" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387759" label="kmc_20250805_171413.png" startTime="10000" endTime="13332" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,9999.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="180.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.threshold" locallyApplied="true">
+      <property name="threshold" type="float" value="0.640000" />
+      <property name="feather" type="float" value="1.000000" />
+      <property name="invert" type="bool" value="true" />
+      <property name="blendMode" type="int" value="1" />
+    </effect>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387760" label="kmc_20250805_171413.png" startTime="13333" endTime="16665" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.solidcolornew" locallyApplied="true">
+      <property name="color" type="color" value="#ffff0000" />
+      <property name="alpha" type="float" value="1.000000" />
+      <property name="bright" type="float" value="1.000000" />
+      <property name="blendMode" type="int" value="1" />
+      <property name="alphab" type="float" value="1.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float">
+        <kf t="0.002730" v="0.000000" />
+        <kf t="0.998294" v="2.740000" />
+      </property>
+      <property name="a1d" type="float" value="90.000000" />
+      <property name="m1" type="float" value="6.200000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387761" label="kmc_20250805_171413.png" startTime="16666" endTime="19998" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.threetones" locallyApplied="true">
+      <property name="color1" type="color" value="#ffffffff" />
+      <property name="color2" type="color" value="#ff0000ff" />
+      <property name="color3" type="color" value="#ff00ffff" />
+      <property name="bright" type="float" value="1.000000" />
+      <property name="blendMode" type="int" value="0" />
+      <property name="alphab" type="float" value="1.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387762" label="kmc_20250805_171413.png" startTime="20000" endTime="23332" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387763" label="kmc_20250805_171413.png" startTime="23333" endTime="26665" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="90.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float" value="0.000000" />
+      <property name="a1d" type="float" value="0.000000" />
+      <property name="m1" type="float" value="20.000000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387764" label="kmc_20250805_171413.png" startTime="26666" endTime="29998" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.fourcolorgradientnew" locallyApplied="true">
+      <property name="color1" type="color" value="#ffff0000" />
+      <property name="offset1" type="vec2" value="0.000000,-500.000000" />
+      <property name="color2" type="color" value="#ff00ff00" />
+      <property name="offset2" type="vec2" value="500.000000,-500.000000" />
+      <property name="color3" type="color" value="#ff0000ff" />
+      <property name="offset3" type="vec2" value="500.000000,0.000000" />
+      <property name="color4" type="color" value="#ffff00ff" />
+      <property name="blend" type="float" value="1.000000" />
+      <property name="alpha" type="float" value="0.750000" />
+      <property name="bright" type="float" value="1.000000" />
+      <property name="blendMode" type="int" value="18" />
+      <property name="alphab" type="float" value="1.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387765" label="kmc_20250805_171413.png" startTime="30000" endTime="33332" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="false" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387766" label="kmc_20250805_171413.png" startTime="33333" endTime="36665" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="180.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387767" label="kmc_20250805_171413.png" startTime="36666" endTime="39998" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387768" label="kmc_20250805_171413.png" startTime="40000" endTime="43332" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387769" label="kmc_20250805_171413.png" startTime="43333" endTime="46665" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="2" />
+      <property name="green" type="int" value="1" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="180.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.kaleidoscope" locallyApplied="true">
+      <property name="rcount" type="float" value="2.000000" />
+      <property name="centerPoint" type="vec2" value="0.000000,9999.000000" />
+      <property name="offsetAngle" type="float" value="90.000000" />
+      <property name="mirror" type="bool" value="true" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387770" label="kmc_20250805_171413.png" startTime="46666" endTime="49998" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="-1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387771" label="kmc_20250805_171413.png" startTime="50000" endTime="53332" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.gradientmap" locallyApplied="true">
+      <property name="color1" type="color" value="#ffffff00" />
+      <property name="color2" type="color" value="#ff0000ff" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387772" label="kmc_20250805_171413.png" startTime="53333" endTime="56665" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.highlightshadow" locallyApplied="true">
+      <property name="highlights" type="float" value="1.000000" />
+      <property name="shadows" type="float" value="0.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+  <shape id="387773" label="kmc_20250805_171413.png" startTime="56666" endTime="59998" fillType="media" fillImage="content://media/external/images/media/1000035946" mediaFillMode="fill" presetId="2617d77a-dd9d-4a1e-ac36-eae80b2d9e9a" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.wavewarp2" locallyApplied="true">
+      <property name="phase" type="float">
+        <kf t="0.002730" v="0.000000" />
+        <kf t="0.998294" v="2.740000" />
+      </property>
+      <property name="a1d" type="float" value="90.000000" />
+      <property name="m1" type="float" value="6.200000" />
+      <property name="m2" type="float" value="4.000000" />
+      <property name="a2d" type="float" value="90.000000" />
+      <property name="damping" type="float" value="0.000000" />
+      <property name="dampingSpace" type="float" value="0.000000" />
+      <property name="dampingOrigin" type="float" value="0.500000" />
+      <property name="screenSpace" type="bool" value="false" />
+    </effect>
+    <effect id="com.alightcreative.effects.threetones" locallyApplied="true">
+      <property name="color1" type="color" value="#ff0000ff" />
+      <property name="color2" type="color" value="#ffff0000" />
+      <property name="color3" type="color" value="#ff00ff00" />
+      <property name="bright" type="float" value="1.000000" />
+      <property name="blendMode" type="int" value="0" />
+      <property name="alphab" type="float" value="1.000000" />
+    </effect>
+    <path-stroke direction="centered" end-size="1.500000">
+      <color value="#ffffffff" />
+    </path-stroke>
+    <property name="size" type="vec2" value="960.000000,540.000000" />
+  </shape>
+</scene>

@@ -1,0 +1,1564 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-07-21 12:02 PM
+5.0.270.1002578 (1002351)
+6dff462 (11 apr. 2024 15:47:55)
+-->
+<scene title="91-DXI On VEGAS Pro" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="4665" fps="30" modifiedTime="1753088520430" amver="1002351" ffver="106" am="com.alightcreative.motion/5.0.270.1002578" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <media uri="content://media/external/video/media/1000374000" filename="0619-1.mp4" title="0619-1.mp4" type="video/mp4" duration="9148700" size="2444974" fps="0.30" orientation="0" infoUpdated="1753088444953" width="848" height="480" />
+  <shape id="387292" label="0619-1.mp4" startTime="0" endTime="465" fillType="media" fillVideo="content://media/external/video/media/1000374000" outTime="465" mediaFillMode="fill" presetId="09249c17-d763-46bc-ba74-7649c102c81b" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="954.000000,540.000000" />
+  </shape>
+  <shape id="387293" label="0619-1.mp4" startTime="466" endTime="931" fillType="media" fillVideo="content://media/external/video/media/1000374000" outTime="465" mediaFillMode="fill" presetId="09249c17-d763-46bc-ba74-7649c102c81b" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="954.000000,540.000000" />
+  </shape>
+  <shape id="387294" label="0619-1.mp4" startTime="933" endTime="1398" fillType="media" fillVideo="content://media/external/video/media/1000374000" outTime="465" mediaFillMode="fill" presetId="09249c17-d763-46bc-ba74-7649c102c81b" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="954.000000,540.000000" />
+  </shape>
+  <shape id="387295" label="0619-1.mp4" startTime="1400" endTime="1865" fillType="media" fillVideo="content://media/external/video/media/1000374000" outTime="465" mediaFillMode="fill" presetId="09249c17-d763-46bc-ba74-7649c102c81b" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="954.000000,540.000000" />
+  </shape>
+  <shape id="387296" label="0619-1.mp4" startTime="1866" endTime="2331" fillType="media" fillVideo="content://media/external/video/media/1000374000" outTime="465" mediaFillMode="fill" presetId="09249c17-d763-46bc-ba74-7649c102c81b" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="954.000000,540.000000" />
+  </shape>
+  <shape id="387297" label="0619-1.mp4" startTime="2333" endTime="2798" fillType="media" fillVideo="content://media/external/video/media/1000374000" outTime="465" mediaFillMode="fill" presetId="09249c17-d763-46bc-ba74-7649c102c81b" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="954.000000,540.000000" />
+  </shape>
+  <shape id="387298" label="0619-1.mp4" startTime="2800" endTime="3265" fillType="media" fillVideo="content://media/external/video/media/1000374000" outTime="465" mediaFillMode="fill" presetId="09249c17-d763-46bc-ba74-7649c102c81b" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="954.000000,540.000000" />
+  </shape>
+  <shape id="387299" label="0619-1.mp4" startTime="3266" endTime="3731" fillType="media" fillVideo="content://media/external/video/media/1000374000" outTime="465" mediaFillMode="fill" presetId="09249c17-d763-46bc-ba74-7649c102c81b" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="954.000000,540.000000" />
+  </shape>
+  <shape id="387300" label="0619-1.mp4" startTime="3733" endTime="4198" fillType="media" fillVideo="content://media/external/video/media/1000374000" outTime="465" mediaFillMode="fill" presetId="09249c17-d763-46bc-ba74-7649c102c81b" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="954.000000,540.000000" />
+  </shape>
+  <shape id="387301" label="0619-1.mp4" startTime="4200" endTime="4665" fillType="media" fillVideo="content://media/external/video/media/1000374000" outTime="465" mediaFillMode="fill" presetId="09249c17-d763-46bc-ba74-7649c102c81b" s=".rect">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.invert" locallyApplied="true">
+      <property name="invertRed" type="bool" value="true" />
+      <property name="invertGreen" type="bool" value="true" />
+      <property name="invertBlue" type="bool" value="true" />
+    </effect>
+    <effect id="com.alightcreative.effects.channelmap" locallyApplied="true">
+      <property name="red" type="int" value="1" />
+      <property name="green" type="int" value="2" />
+      <property name="blue" type="int" value="0" />
+      <property name="alpha" type="int" value="3" />
+    </effect>
+    <effect id="com.alightcreative.effects.hueshift" locallyApplied="true">
+      <property name="hue" type="float" value="15.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.satvib" locallyApplied="true">
+      <property name="saturation" type="float" value="1.000000" />
+      <property name="vib" type="float" value="2.000000" />
+    </effect>
+    <effect id="com.alightcreative.effects.shake2" locallyApplied="true">
+      <property name="mag" type="float" value="20.000000" />
+      <property name="freq" type="float" value="7.500000" />
+      <property name="evolution" type="float" value="0.000000" />
+      <property name="seed" type="float" value="0.000000" />
+      <property name="angle" type="float" value="90.000000" />
+      <property name="slack" type="float" value="0.000000" />
+      <property name="zshake" type="float" value="0.000000" />
+    </effect>
+    <gain value="0.000000" />
+    <property name="size" type="vec2" value="954.000000,540.000000" />
+  </shape>
+</scene>
